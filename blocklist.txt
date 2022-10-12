@@ -1,2 +1,3 @@
 # Major Service Blockers
 netflix.com
+pluto.tv

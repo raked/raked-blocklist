@@ -1,3 +1,16 @@
 # Major Service Blockers
 netflix.com
 pluto.tv
+hulu.com
+disney.com
+disneyplus.com
+whatsapp.com
+vk.com
+bilibili.com
+qq.com
+mail.ru
+ok.ru
+pinterest.com
+
+# Smart TV Spy
+oui-0x00199d.com

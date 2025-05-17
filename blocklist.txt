@@ -1,18 +1,15 @@
-$TTL 300
-@ SOA localhost. root.localhost. 1747450500 43200 3600 86400 300
-  NS  localhost.
-;
-; Title: raked DNS Blocklist
-; Description: Custom blocklist for common trackers.
-; Homepage: https://github.com/raked/raked-blocklist
-; License: https://github.com/raked/raked-blocklist/blob/main/LICENSE
-; Issues: https://github.com/raked/raked-blocklist/issues
-; Expires: 1 day
-; Last modified: 17 May 2025 02:55 UTC
-; Version: 2025.0517.0.1
-; Syntax: RPZ
-; Number of entries: 2
-;
+#
+# Title: raked DNS Blocklist
+# Description: Custom blocklist for common trackers.
+# Homepage: https://github.com/raked/raked-blocklist
+# License: https://github.com/raked/raked-blocklist/blob/main/LICENSE
+# Issues: https://github.com/raked/raked-blocklist/issues
+# Expires: 1 day
+# Last modified: 17 May 2025 11:06 UTC
+# Version: 2025.0517.0.2
+# Syntax: General
+# Number of entries: 2
+#
 
-*.hp.com CNAME .
-*.reolink.com CNAME .
+*.hp.com
+*.reolink.com

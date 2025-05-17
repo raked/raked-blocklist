@@ -1,16 +1,15 @@
-# Major Service Blockers
-netflix.com
-pluto.tv
-hulu.com
-disney.com
-disneyplus.com
-whatsapp.com
-vk.com
-bilibili.com
-qq.com
-mail.ru
-ok.ru
-pinterest.com
-
-# Smart TV Spy
-oui-0x00199d.com
+$TTL 300
+@ SOA localhost. root.localhost. 1747450500 43200 3600 86400 300
+  NS  localhost.
+;
+; Title: raked DNS Blocklist
+; Description: Custom blocklist for common trackers.
+; Homepage: https://github.com/raked/raked-blocklist
+; License: https://github.com/raked/raked-blocklist/blob/main/LICENSE
+; Issues: https://github.com/raked/raked-blocklist/issues
+; Expires: 1 day
+; Last modified: 17 May 2025 02:55 UTC
+; Version: 2025.0517.0.1
+; Syntax: RPZ
+; Number of entries: 0
+;

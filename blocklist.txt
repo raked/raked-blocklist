@@ -5,11 +5,12 @@
 # License: https://github.com/raked/raked-blocklist/blob/main/LICENSE
 # Issues: https://github.com/raked/raked-blocklist/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 11:33 UTC
-# Version: 2025.0517.0.3
+# Last modified: 20 May 2025 09:06 UTC
+# Version: 2025.0520.0.1
 # Syntax: Wildcard/OPNSense
-# Number of entries: 2
+# Number of entries: 3
 #
 
-*.hp.com
-*.reolink.com
+*.avatar.ext.hp.com
+pushx.reolink.com
+p2p.reolink.com
